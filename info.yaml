@@ -1,10 +1,10 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        ""      # A Single AND Gate
-  author:       ""      # Hayden Wu
+  wokwi_id:     354858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "A Single AND Gate"      # A Single AND Gate
+  author:       "Hayden Wu"      
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # A Single AND Gate
+  description:  "A Single AND Gate"      # A Single AND Gate
   language:     "Wokwi" # Wokwi
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
